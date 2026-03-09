@@ -24,7 +24,7 @@ Built using Google Apps Script.
 ## Screenshots
 
 ### Example Sheet  
-![Sheet](screenshots/template_and_sidebar.png)
+![Sheet](template.png)
 
 ### Email Example  
-![Email](screenshots/mails.png)
+![Email](email-example.png)
